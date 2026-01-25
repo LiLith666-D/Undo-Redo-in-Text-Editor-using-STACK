@@ -47,3 +47,8 @@ The text editor uses two stacks: an Undo Stack and a Redo Stack. Every action pe
 This project helps in understanding stack operations, memory management, and the internal working of undo-redo mechanisms in text editing applications.
 
 ---
+
+## Author
+   Dheekshita R
+
+---
