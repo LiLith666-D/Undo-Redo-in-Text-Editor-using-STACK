@@ -49,6 +49,7 @@ This project helps in understanding stack operations, memory management, and the
 ---
 
 ## Author
-   Dheekshita R
+
+Dheekshita R
 
 ---
